@@ -1,0 +1,33 @@
+.grid {
+    // @media (max-width: 767px) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    // }
+}
+
+.book {
+    text-align: left;
+    /* media queries */
+    @media (max-width: 767px) {
+        text-align: center;
+    }
+    @media (max-width: 400px) {
+        text-align: right;
+    }
+}
+
+.book {
+    background-image: linear-gradient(
+        to right,
+        rgb(166, 226, 166),
+        rgb(130, 196, 226)
+    );
+}
+
+.searcharea {
+    background-image: linear-gradient(
+        to right,
+        rgb(166, 226, 166),
+        rgb(130, 196, 226)
+    );
+}
