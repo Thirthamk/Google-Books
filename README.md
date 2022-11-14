@@ -23,5 +23,5 @@ Functions should do 1 thing, and should be as pure and reusable as possible
 Always use iterators over loops
 Always parametrize and abstract large pieces of duplicate code.
 
-#Image
+# Image of the webpage
 ![image](https://user-images.githubusercontent.com/79642065/198420177-41c8ece0-4204-42f1-bf00-865b7fa3decf.png)
