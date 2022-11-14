@@ -17,7 +17,7 @@ This application should look good, take some time to pick a palette and plan out
 Styling must use BEM, and each block should have its own SCSS file
 Your palette should use variables
 # Application Design (required):
-You should separate DOM functions and non-DOM functions in different modules Example: https://github.com/chillcaw/el-salvador-code-alongs/tree/master/js-modules
+You should separate DOM functions and non-DOM functions in different modules
 Write as many non-DOM functions as you can
 Functions should do 1 thing, and should be as pure and reusable as possible
 Always use iterators over loops
