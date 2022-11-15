@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
 .grid {
     // @media (max-width: 767px) {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     // }
 }
 
@@ -19,15 +21,16 @@
 .book {
     background-image: linear-gradient(
         to right,
-        rgb(166, 226, 166),
-        rgb(130, 196, 226)
+        rgb(210, 228, 210),
+        rgb(179, 209, 224)
     );
+
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .searcharea {
-    background-image: linear-gradient(
-        to right,
-        rgb(166, 226, 166),
-        rgb(130, 196, 226)
-    );
+    background-color: rgb(138, 182, 233);
+    margin-left: 20px;
+    margin-right: 20px;
 }

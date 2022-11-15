@@ -1,8 +1,8 @@
 import { render, screen } from "@testing-library/react";
-import App from "./App";
+import Books from "./Books";
 
 test("renders learn react link", () => {
-    render(<App />);
-    const linkElement = screen.getByRole("button");
+    render(<Books />);
+    const linkElement = screen.getByText("Search");
     expect(linkElement).toBeInTheDocument();
 });
