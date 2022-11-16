@@ -3,9 +3,6 @@
 # Image of the webpage
 ![image](https://user-images.githubusercontent.com/79642065/201789540-4a2770d1-c719-407f-b757-83b5981bb688.png)
 
-# link
-http://localhost:3000/
-
 # Google Books UI
 # MVP:
 Create a page that allows users to search for books
