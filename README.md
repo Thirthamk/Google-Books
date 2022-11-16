@@ -1,9 +1,8 @@
 # Google-books
 
-# Image of the webpage
+# Google Books UI
 ![image](https://user-images.githubusercontent.com/79642065/201789540-4a2770d1-c719-407f-b757-83b5981bb688.png)
 
-# Google Books UI
 # MVP:
 Create a page that allows users to search for books
 Page should include the following:
@@ -17,12 +16,6 @@ The books that you receive should be rendered in the books grid.
 Each book in the grid should have an image, author, title and description
 The grid should be responsive on different screen sizes
 You should use async / await for your request code, NOT .then
-
-# Styling (required):
-For styling I have used BEM, and each block has its own SCSS file
-
-# Future goals / changes 
-I have currently done basic styling, I would like to use more features, icons and make the website look more fun. 
 
 # Getting Started with Create React App
 
@@ -65,32 +58,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# Styling (required):
+For styling I have used BEM, and each block has its own SCSS file
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Future goals / changes 
+I have currently done basic styling, I would like to use more features, icons and make the website look more fun. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
